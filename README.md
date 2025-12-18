@@ -16,8 +16,9 @@ El proyecto se dividió en tres pilares de investigación técnica:
 ## Ciclo de Diseño y Validación
 Una parte fundamental de este trabajo fue el **Historial de Diseños**, donde se documenta el paso de prototipos en protoboard hacia la fabricación de PCBs funcionales mediante fresado CNC. 
 
-![Interfaz LabVIEW](./img/PCB.png)
+![PCB final](./img/PCB.png)
 *(PCB final)*
+
 Los ensayos de laboratorio validaron:
 - Curvas de carga real vs. teórica.
 - Consumo de corriente de la Estación Base en reposo y transmisión.
